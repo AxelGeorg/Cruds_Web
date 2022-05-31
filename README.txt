@@ -1,0 +1,1 @@
+para rodar basta no terminal php artisan serve
